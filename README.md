@@ -1,42 +1,58 @@
-<h1 align="center">Hola 👋, soy ByteMonsterus</h1>
-<h3 align="center">Técnico en Informática | Estudiante de Ciberseguridad</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ByteMonsterus?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ByteMonsterus?style=social" alt="GitHub stars" />
-</p>
+# ByteMonsterus
 
-## Sobre mí
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=whoami+%3E+Yohansel+Medrano;role+%3D+Aspiring+Cybersecurity+Analyst;status+%3D+learning+%2F%2F+building+%2F%2F+securing" alt="Typing SVG" />
 
-- 🎓 Técnico en Informática, actualmente cursando Ingeniería en Ciberseguridad (UNICARIBE)
-- 🔐 Enfocado en construir una base sólida en sistemas, redes y seguridad
-- 🛠️ Experiencia práctica en soporte técnico y administración de sistemas Windows/Linux
-- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/yohansel-geraldo-medrano-gonzalez-2069043a1/) · yohanselgmg@gmail.com
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
 
-## En qué estoy trabajando ahora
+</div>
 
-- 📖 Cursando Ingeniería en Ciberseguridad
-- 🐧 Documentando un proyecto de servidor Linux (SSH, firewall, gestión de usuarios)
-- 🎯 Buscando primeras oportunidades relacionadas a soporte técnico / seguridad
+---
 
-## Proyectos destacados
+## $ cat sobre_mi.txt
 
+> Técnico en Informática en transición activa hacia Ciberseguridad.
+> Actualmente cursando Ingeniería en Ciberseguridad (UNICARIBE).
+> Base práctica en soporte técnico y administración de sistemas Windows/Linux.
+> Construyendo experiencia propia en hardening, redes y automatización.
+
+## $ ls proyectos/
+
+​```
+drwxr-xr-x  servidor-linux-seguridad/     → SSH, firewall, gestión de usuarios
+drwxr-xr-x  hyprland-dotfiles/            → configuración de entorno Linux (Hyprland)
+​```
+
+- 🔒 **[Servidor Linux — prácticas de seguridad](#)** — Configuración de acceso remoto vía SSH, reglas de firewall para reducir la superficie de ataque, y gestión de usuarios bajo el principio de mínimo privilegio.
 - 🖥️ **[CyberByting Hyprland Dotfiles](https://github.com/ByteMonsterus/CyberByting-Hyprland-Dotfiles)** — Configuración personalizada de mi entorno Linux con Hyprland.
 
-## Tecnologías y herramientas
+## $ cat en_progreso.log
 
-**Sistemas y seguridad**
+​```
+[OK]      Ingeniería en Ciberseguridad — en curso
+[OK]      Documentando proyecto de servidor Linux
+[PENDING] Primeras oportunidades en soporte técnico / seguridad
+​```
 
-<img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/48/external-Linux-logos-and-brands-those-icons-lineal-color-those-icons.png" width="40" height="40" title="Linux"/> <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="40" height="40" title="Bash"/> <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="40" height="40" title="GitHub"/> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40" title="Git"/>
+## $ whoami --contact
 
-**Programación y bases de datos**
+<div align="center">
 
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" title="Python"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" title="HTML"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" title="CSS"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40" title="JavaScript"/> <img src="https://img.icons8.com/fluency/48/c-programming.png" width="40" height="40" title="C"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40" title="MySQL"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/yohansel-geraldo-medrano-gonzalez-2069043a1/)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:yohanselgmg@gmail.com)
 
-<!--## Estadísticas
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteMonsterus&theme=algolia&show_icons=true" alt="ByteMonsterus GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMonsterus&theme=algolia&layout=compact" alt="Top Languages" height="165"/>
-</p>
--->
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ByteMonsterus&theme=algolia&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMonsterus&theme=algolia&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=c9d1d9" height="165" alt="Top languages" />
+
+</div>
