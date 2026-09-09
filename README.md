@@ -24,18 +24,16 @@
 ## $ ls proyectos/
 
 ​```
-drwxr-xr-x  servidor-linux-seguridad/     → SSH, firewall, gestión de usuarios
 drwxr-xr-x  hyprland-dotfiles/            → configuración de entorno Linux (Hyprland)
 ​```
 
-- 🔒 **[Servidor Linux — prácticas de seguridad](#)** — Configuración de acceso remoto vía SSH, reglas de firewall para reducir la superficie de ataque, y gestión de usuarios bajo el principio de mínimo privilegio.
 - 🖥️ **[CyberByting Hyprland Dotfiles](https://github.com/ByteMonsterus/CyberByting-Hyprland-Dotfiles)** — Configuración personalizada de mi entorno Linux con Hyprland.
 
 ## $ cat en_progreso.log
 
 ​```
 [OK]      Ingeniería en Ciberseguridad — en curso
-[OK]      Documentando proyecto de servidor Linux
+[OK]      Documentando proyecto de VPN en python
 [PENDING] Primeras oportunidades en soporte técnico / seguridad
 ​```
 
