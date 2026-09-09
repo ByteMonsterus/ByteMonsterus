@@ -41,8 +41,8 @@ drwxr-xr-x  hyprland-dotfiles/            → configuración de entorno Linux (H
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/yohansel-geraldo-medrano-gonzalez-2069043a1/)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:yohanselgmg@gmail.com)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/yohansel-geraldo-medrano-gonzalez-2069043a1/)-->
+<!--[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:yohanselgmg@gmail.com)-->
 
 </div>
 
