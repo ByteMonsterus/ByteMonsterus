@@ -46,7 +46,7 @@ drwxr-xr-x  hyprland-dotfiles/            → configuración de entorno Linux (H
 
 </div>
 
----
+<!---
 
 <div align="center">
 
@@ -54,3 +54,4 @@ drwxr-xr-x  hyprland-dotfiles/            → configuración de entorno Linux (H
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMonsterus&theme=algolia&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=c9d1d9" height="165" alt="Top languages" />
 
 </div>
+-->
