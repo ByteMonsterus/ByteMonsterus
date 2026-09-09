@@ -2,7 +2,7 @@
 
 # ByteMonsterus
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=whoami+%3E+Yohansel+Medrano;role+%3D+Aspiring+Cybersecurity+Analyst;status+%3D+learning+%2F%2F+building+%2F%2F+securing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=whoami+%3E+Byte+Monsterus;role+%3D+Aspiring+Cybersecurity+Analyst;status+%3D+learning+%2F%2F+building+%2F%2F+securing" alt="Typing SVG" />
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
