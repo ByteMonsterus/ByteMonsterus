@@ -23,8 +23,9 @@
 
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" title="Python"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" title="HTML"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" title="CSS"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40" title="JavaScript"/> <img src="https://img.icons8.com/fluency/48/c-programming.png" width="40" height="40" title="C"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40" title="MySQL"/>
 
-## Estadísticas
+<!--## Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ByteMonsterus&theme=algolia&show_icons=true" alt="ByteMonsterus GitHub stats" />
 </p>
+-->
