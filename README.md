@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Yohansel (ByteMonsterus)</h1>
+<h1 align="center">Hola 👋, soy ByteMonsterus</h1>
 <h3 align="center">Técnico en Informática | Estudiante de Ciberseguridad</h3>
 
 <p align="center">
@@ -21,7 +21,6 @@
 
 ## Proyectos destacados
 
-- 🔒 **[Servidor Linux — prácticas de seguridad](enlace-cuando-lo-subas)** — Configuración de SSH, reglas de firewall y gestión de usuarios con principio de mínimo privilegio.
 - 🖥️ **[CyberByting Hyprland Dotfiles](https://github.com/ByteMonsterus/CyberByting-Hyprland-Dotfiles)** — Configuración personalizada de mi entorno Linux con Hyprland.
 
 ## Tecnologías y herramientas
@@ -34,9 +33,10 @@
 
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" title="Python"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" title="HTML"/> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" title="CSS"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40" title="JavaScript"/> <img src="https://img.icons8.com/fluency/48/c-programming.png" width="40" height="40" title="C"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40" title="MySQL"/>
 
-## Estadísticas
+<!--## Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ByteMonsterus&theme=algolia&show_icons=true" alt="ByteMonsterus GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMonsterus&theme=algolia&layout=compact" alt="Top Languages" height="165"/>
 </p>
+-->
